@@ -1,0 +1,4 @@
+mx\inventario\dao\IlistadeproductosDAO.class
+com\inventario\domain\Listadeproducos.class
+com\inventario\web\ControladorREST.class
+com\inventario\InventarioSpringReal\InventarioSpringRealApplication.class
